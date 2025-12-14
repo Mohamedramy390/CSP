@@ -1,0 +1,253 @@
+--- Extracted Section IDs from CSP Variables ---
+
+Variable: ACM215_Lab_S1_L2  ->  Sections: {S1_L2}
+Variable: ACM215_Lab_S2_L2  ->  Sections: {S2_L2}
+Variable: ACM215_Lab_S3_L2  ->  Sections: {S3_L2}
+Variable: ACM215_Lab_S4_L2  ->  Sections: {S4_L2}
+Variable: ACM215_Lab_S5_L2  ->  Sections: {S5_L2}
+Variable: ACM215_Lab_S6_L2  ->  Sections: {S6_L2}
+Variable: ACM215_Lab_S7_L2  ->  Sections: {S7_L2}
+Variable: ACM215_Lab_S8_L2  ->  Sections: {S8_L2}
+Variable: ACM215_Lab_S9_L2  ->  Sections: {S9_L2}
+Variable: ACM215_Lecture_(S1_L2,S2_L2)  ->  Sections: {S1_L2, S2_L2}
+Variable: ACM215_Lecture_(S3_L2,S4_L2)  ->  Sections: {S3_L2, S4_L2}
+Variable: ACM215_Lecture_(S5_L2,S6_L2)  ->  Sections: {S5_L2, S6_L2}
+Variable: ACM215_Lecture_(S7_L2,S8_L2)  ->  Sections: {S7_L2, S8_L2}
+Variable: ACM215_Lecture_(S9_L2)  ->  Sections: {S9_L2}
+Variable: ACM323_Lab_S1_CNC_L4  ->  Sections: {S1_CNC_L4}
+Variable: ACM323_Lab_S2_CNC_L4  ->  Sections: {S2_CNC_L4}
+Variable: ACM323_Lab_S3_CNC_L4  ->  Sections: {S3_CNC_L4}
+Variable: ACM323_Lab_S4_CNC_L4  ->  Sections: {S4_CNC_L4}
+Variable: ACM323_Lecture_(S1_CNC_L4,S2_CNC_L4)  ->  Sections: {S1_CNC_L4, S2_CNC_L4}
+Variable: ACM323_Lecture_(S3_CNC_L4,S4_CNC_L4)  ->  Sections: {S3_CNC_L4, S4_CNC_L4}
+Variable: AID311_Lab_S1_AID_L3  ->  Sections: {S1_AID_L3}
+Variable: AID311_Lab_S2_AID_L3  ->  Sections: {S2_AID_L3}
+Variable: AID311_Lab_S3_AID_L3  ->  Sections: {S3_AID_L3}
+Variable: AID311_Lab_S4_AID_L3  ->  Sections: {S4_AID_L3}
+Variable: AID311_Lecture_(S1_AID_L3,S2_AID_L3)  ->  Sections: {S1_AID_L3, S2_AID_L3}
+Variable: AID311_Lecture_(S3_AID_L3,S4_AID_L3)  ->  Sections: {S3_AID_L3, S4_AID_L3}
+Variable: AID312_Lab_S1_AID_L3  ->  Sections: {S1_AID_L3}
+Variable: AID312_Lab_S1_BIF_L3  ->  Sections: {S1_BIF_L3}
+Variable: AID312_Lab_S1_CNC_L3  ->  Sections: {S1_CNC_L3}
+Variable: AID312_Lab_S1_CSC_L3  ->  Sections: {S1_CSC_L3}
+Variable: AID312_Lab_S2_AID_L3  ->  Sections: {S2_AID_L3}
+Variable: AID312_Lab_S2_CNC_L3  ->  Sections: {S2_CNC_L3}
+Variable: AID312_Lab_S3_AID_L3  ->  Sections: {S3_AID_L3}
+Variable: AID312_Lab_S3_CNC_L3  ->  Sections: {S3_CNC_L3}
+Variable: AID312_Lab_S4_AID_L3  ->  Sections: {S4_AID_L3}
+Variable: AID312_Lab_S4_CNC_L3  ->  Sections: {S4_CNC_L3}
+Variable: AID312_Lecture_(S1_AID_L3,S2_AID_L3)  ->  Sections: {S1_AID_L3, S2_AID_L3}
+Variable: AID312_Lecture_(S1_CNC_L3,S2_CNC_L3)  ->  Sections: {S1_CNC_L3, S2_CNC_L3}
+Variable: AID312_Lecture_(S1_CSC_L3,S1_BIF_L3)  ->  Sections: {S1_BIF_L3, S1_CSC_L3}
+Variable: AID312_Lecture_(S3_AID_L3,S4_AID_L3)  ->  Sections: {S3_AID_L3, S4_AID_L3}
+Variable: AID312_Lecture_(S3_CNC_L3,S4_CNC_L3)  ->  Sections: {S3_CNC_L3, S4_CNC_L3}
+Variable: AID321_Lab_S1_CSC_L4  ->  Sections: {S1_CSC_L4}
+Variable: AID321_Lecture_(S1_CSC_L4)  ->  Sections: {S1_CSC_L4}
+Variable: AID322_Lab_S1_BIF_L4  ->  Sections: {S1_BIF_L4}
+Variable: AID322_Lecture_(S1_BIF_L4)  ->  Sections: {S1_BIF_L4}
+Variable: AID323_Lab_S1_CSC_L4  ->  Sections: {S1_CSC_L4}
+Variable: AID323_Lecture_(S1_CSC_L4)  ->  Sections: {S1_CSC_L4}
+Variable: AID324_Lab_S1_BIF_L4  ->  Sections: {S1_BIF_L4}
+Variable: AID324_Lecture_(S1_BIF_L4)  ->  Sections: {S1_BIF_L4}
+Variable: AID411_Lab_S1_CSC_L4  ->  Sections: {S1_CSC_L4}
+Variable: AID411_Lecture_(S1_CSC_L4)  ->  Sections: {S1_CSC_L4}
+Variable: AID413_Lab_S1_AID_L4  ->  Sections: {S1_AID_L4}
+Variable: AID413_Lab_S2_AID_L4  ->  Sections: {S2_AID_L4}
+Variable: AID413_Lab_S3_AID_L4  ->  Sections: {S3_AID_L4}
+Variable: AID413_Lab_S4_AID_L4  ->  Sections: {S4_AID_L4}
+Variable: AID413_Lecture_(S1_AID_L4,S2_AID_L4)  ->  Sections: {S1_AID_L4, S2_AID_L4}
+Variable: AID413_Lecture_(S3_AID_L4,S4_AID_L4)  ->  Sections: {S3_AID_L4, S4_AID_L4}
+Variable: AID416_Lab_S1_BIF_L4  ->  Sections: {S1_BIF_L4}
+Variable: AID416_Lecture_(S1_BIF_L4)  ->  Sections: {S1_BIF_L4}
+Variable: AID422_Lab_S1_BIF_L4  ->  Sections: {S1_BIF_L4}
+Variable: AID422_Lecture_(S1_BIF_L4)  ->  Sections: {S1_BIF_L4}
+Variable: AID425_Lab_S1_CSC_L3  ->  Sections: {S1_CSC_L3}
+Variable: AID425_Lecture_(S1_CSC_L3)  ->  Sections: {S1_CSC_L3}
+Variable: AID427_Lab_S1_AID_L4  ->  Sections: {S1_AID_L4}
+Variable: AID427_Lab_S2_AID_L4  ->  Sections: {S2_AID_L4}
+Variable: AID427_Lab_S3_AID_L4  ->  Sections: {S3_AID_L4}
+Variable: AID427_Lab_S4_AID_L4  ->  Sections: {S4_AID_L4}
+Variable: AID427_Lecture_(S1_AID_L4,S2_AID_L4)  ->  Sections: {S1_AID_L4, S2_AID_L4}
+Variable: AID427_Lecture_(S3_AID_L4,S4_AID_L4)  ->  Sections: {S3_AID_L4, S4_AID_L4}
+Variable: AID428_Lab_S1_AID_L4  ->  Sections: {S1_AID_L4}
+Variable: AID428_Lab_S2_AID_L4  ->  Sections: {S2_AID_L4}
+Variable: AID428_Lab_S3_AID_L4  ->  Sections: {S3_AID_L4}
+Variable: AID428_Lab_S4_AID_L4  ->  Sections: {S4_AID_L4}
+Variable: AID428_Lecture_(S1_AID_L4,S2_AID_L4)  ->  Sections: {S1_AID_L4, S2_AID_L4}
+Variable: AID428_Lecture_(S3_AID_L4,S4_AID_L4)  ->  Sections: {S3_AID_L4, S4_AID_L4}
+Variable: CNC111_Lab_S1_L2  ->  Sections: {S1_L2}
+Variable: CNC111_Lab_S2_L2  ->  Sections: {S2_L2}
+Variable: CNC111_Lab_S3_L2  ->  Sections: {S3_L2}
+Variable: CNC111_Lab_S4_L2  ->  Sections: {S4_L2}
+Variable: CNC111_Lab_S5_L2  ->  Sections: {S5_L2}
+Variable: CNC111_Lab_S6_L2  ->  Sections: {S6_L2}
+Variable: CNC111_Lab_S7_L2  ->  Sections: {S7_L2}
+Variable: CNC111_Lab_S8_L2  ->  Sections: {S8_L2}
+Variable: CNC111_Lab_S9_L2  ->  Sections: {S9_L2}
+Variable: CNC111_Lecture_(S1_L2,S2_L2)  ->  Sections: {S1_L2, S2_L2}
+Variable: CNC111_Lecture_(S3_L2,S4_L2)  ->  Sections: {S3_L2, S4_L2}
+Variable: CNC111_Lecture_(S5_L2,S6_L2)  ->  Sections: {S5_L2, S6_L2}
+Variable: CNC111_Lecture_(S7_L2,S8_L2)  ->  Sections: {S7_L2, S8_L2}
+Variable: CNC111_Lecture_(S9_L2)  ->  Sections: {S9_L2}
+Variable: CNC311_Lab_S1_AID_L3  ->  Sections: {S1_AID_L3}
+Variable: CNC311_Lab_S1_BIF_L3  ->  Sections: {S1_BIF_L3}
+Variable: CNC311_Lab_S1_CNC_L3  ->  Sections: {S1_CNC_L3}
+Variable: CNC311_Lab_S1_CSC_L3  ->  Sections: {S1_CSC_L3}
+Variable: CNC311_Lab_S2_AID_L3  ->  Sections: {S2_AID_L3}
+Variable: CNC311_Lab_S2_CNC_L3  ->  Sections: {S2_CNC_L3}
+Variable: CNC311_Lab_S3_AID_L3  ->  Sections: {S3_AID_L3}
+Variable: CNC311_Lab_S3_CNC_L3  ->  Sections: {S3_CNC_L3}
+Variable: CNC311_Lab_S4_AID_L3  ->  Sections: {S4_AID_L3}
+Variable: CNC311_Lab_S4_CNC_L3  ->  Sections: {S4_CNC_L3}
+Variable: CNC311_Lecture_(S1_AID_L3,S2_AID_L3)  ->  Sections: {S1_AID_L3, S2_AID_L3}
+Variable: CNC311_Lecture_(S1_CNC_L3,S2_CNC_L3)  ->  Sections: {S1_CNC_L3, S2_CNC_L3}
+Variable: CNC311_Lecture_(S1_CSC_L3,S1_BIF_L3)  ->  Sections: {S1_BIF_L3, S1_CSC_L3}
+Variable: CNC311_Lecture_(S3_AID_L3,S4_AID_L3)  ->  Sections: {S3_AID_L3, S4_AID_L3}
+Variable: CNC311_Lecture_(S3_CNC_L3,S4_CNC_L3)  ->  Sections: {S3_CNC_L3, S4_CNC_L3}
+Variable: CNC314_Lab_S1_AID_L3  ->  Sections: {S1_AID_L3}
+Variable: CNC314_Lab_S1_BIF_L3  ->  Sections: {S1_BIF_L3}
+Variable: CNC314_Lab_S1_CNC_L3  ->  Sections: {S1_CNC_L3}
+Variable: CNC314_Lab_S1_CSC_L3  ->  Sections: {S1_CSC_L3}
+Variable: CNC314_Lab_S2_AID_L3  ->  Sections: {S2_AID_L3}
+Variable: CNC314_Lab_S2_CNC_L3  ->  Sections: {S2_CNC_L3}
+Variable: CNC314_Lab_S3_AID_L3  ->  Sections: {S3_AID_L3}
+Variable: CNC314_Lab_S3_CNC_L3  ->  Sections: {S3_CNC_L3}
+Variable: CNC314_Lab_S4_AID_L3  ->  Sections: {S4_AID_L3}
+Variable: CNC314_Lab_S4_CNC_L3  ->  Sections: {S4_CNC_L3}
+Variable: CNC314_Lecture_(S1_AID_L3,S2_AID_L3)  ->  Sections: {S1_AID_L3, S2_AID_L3}
+Variable: CNC314_Lecture_(S1_CNC_L3,S2_CNC_L3)  ->  Sections: {S1_CNC_L3, S2_CNC_L3}
+Variable: CNC314_Lecture_(S1_CSC_L3,S1_BIF_L3)  ->  Sections: {S1_BIF_L3, S1_CSC_L3}
+Variable: CNC314_Lecture_(S3_AID_L3,S4_AID_L3)  ->  Sections: {S3_AID_L3, S4_AID_L3}
+Variable: CNC314_Lecture_(S3_CNC_L3,S4_CNC_L3)  ->  Sections: {S3_CNC_L3, S4_CNC_L3}
+Variable: CSC113_Lab_S1_CNC_L3  ->  Sections: {S1_CNC_L3}
+Variable: CSC113_Lab_S2_CNC_L3  ->  Sections: {S2_CNC_L3}
+Variable: CSC113_Lab_S3_CNC_L3  ->  Sections: {S3_CNC_L3}
+Variable: CSC113_Lab_S4_CNC_L3  ->  Sections: {S4_CNC_L3}
+Variable: CSC113_Lecture_(S1_CNC_L3,S2_CNC_L3)  ->  Sections: {S1_CNC_L3, S2_CNC_L3}
+Variable: CSC113_Lecture_(S3_CNC_L3,S4_CNC_L3)  ->  Sections: {S3_CNC_L3, S4_CNC_L3}
+Variable: CSC114_Lab_S1_BIF_L3  ->  Sections: {S1_BIF_L3}
+Variable: CSC114_Lecture_(S1_BIF_L3)  ->  Sections: {S1_BIF_L3}
+Variable: CSC211_Lab_S1_L2  ->  Sections: {S1_L2}
+Variable: CSC211_Lab_S2_L2  ->  Sections: {S2_L2}
+Variable: CSC211_Lab_S3_L2  ->  Sections: {S3_L2}
+Variable: CSC211_Lab_S4_L2  ->  Sections: {S4_L2}
+Variable: CSC211_Lab_S5_L2  ->  Sections: {S5_L2}
+Variable: CSC211_Lab_S6_L2  ->  Sections: {S6_L2}
+Variable: CSC211_Lab_S7_L2  ->  Sections: {S7_L2}
+Variable: CSC211_Lab_S8_L2  ->  Sections: {S8_L2}
+Variable: CSC211_Lab_S9_L2  ->  Sections: {S9_L2}
+Variable: CSC211_Lecture_(S1_L2,S2_L2)  ->  Sections: {S1_L2, S2_L2}
+Variable: CSC211_Lecture_(S3_L2,S4_L2)  ->  Sections: {S3_L2, S4_L2}
+Variable: CSC211_Lecture_(S5_L2,S6_L2)  ->  Sections: {S5_L2, S6_L2}
+Variable: CSC211_Lecture_(S7_L2,S8_L2)  ->  Sections: {S7_L2, S8_L2}
+Variable: CSC211_Lecture_(S9_L2)  ->  Sections: {S9_L2}
+Variable: CSE423_Lab_S1_AID_L3  ->  Sections: {S1_AID_L3}
+Variable: CSE423_Lab_S1_BIF_L3  ->  Sections: {S1_BIF_L3}
+Variable: CSE423_Lab_S1_CNC_L3  ->  Sections: {S1_CNC_L3}
+Variable: CSE423_Lab_S1_CSC_L3  ->  Sections: {S1_CSC_L3}
+Variable: CSE423_Lab_S2_AID_L3  ->  Sections: {S2_AID_L3}
+Variable: CSE423_Lab_S2_CNC_L3  ->  Sections: {S2_CNC_L3}
+Variable: CSE423_Lab_S3_AID_L3  ->  Sections: {S3_AID_L3}
+Variable: CSE423_Lab_S3_CNC_L3  ->  Sections: {S3_CNC_L3}
+Variable: CSE423_Lab_S4_AID_L3  ->  Sections: {S4_AID_L3}
+Variable: CSE423_Lab_S4_CNC_L3  ->  Sections: {S4_CNC_L3}
+Variable: CSE423_Lecture_(S1_AID_L3,S2_AID_L3)  ->  Sections: {S1_AID_L3, S2_AID_L3}
+Variable: CSE423_Lecture_(S1_CNC_L3,S2_CNC_L3)  ->  Sections: {S1_CNC_L3, S2_CNC_L3}
+Variable: CSE423_Lecture_(S1_CSC_L3,S1_BIF_L3)  ->  Sections: {S1_BIF_L3, S1_CSC_L3}
+Variable: CSE423_Lecture_(S3_AID_L3,S4_AID_L3)  ->  Sections: {S3_AID_L3, S4_AID_L3}
+Variable: CSE423_Lecture_(S3_CNC_L3,S4_CNC_L3)  ->  Sections: {S3_CNC_L3, S4_CNC_L3}
+Variable: ECE111_Lab_S10_L1  ->  Sections: {S10_L1}
+Variable: ECE111_Lab_S11_L1  ->  Sections: {S11_L1}
+Variable: ECE111_Lab_S12_L1  ->  Sections: {S12_L1}
+Variable: ECE111_Lab_S1_L1  ->  Sections: {S1_L1}
+Variable: ECE111_Lab_S2_L1  ->  Sections: {S2_L1}
+Variable: ECE111_Lab_S3_L1  ->  Sections: {S3_L1}
+Variable: ECE111_Lab_S4_L1  ->  Sections: {S4_L1}
+Variable: ECE111_Lab_S5_L1  ->  Sections: {S5_L1}
+Variable: ECE111_Lab_S6_L1  ->  Sections: {S6_L1}
+Variable: ECE111_Lab_S7_L1  ->  Sections: {S7_L1}
+Variable: ECE111_Lab_S8_L1  ->  Sections: {S8_L1}
+Variable: ECE111_Lab_S9_L1  ->  Sections: {S9_L1}
+Variable: ECE111_Lecture_(S11_L1,S12_L1)  ->  Sections: {S11_L1, S12_L1}
+Variable: ECE111_Lecture_(S1_L1,S2_L1)  ->  Sections: {S1_L1, S2_L1}
+Variable: ECE111_Lecture_(S3_L1,S4_L1)  ->  Sections: {S3_L1, S4_L1}
+Variable: ECE111_Lecture_(S5_L1,S6_L1)  ->  Sections: {S5_L1, S6_L1}
+Variable: ECE111_Lecture_(S7_L1,S8_L1)  ->  Sections: {S7_L1, S8_L1}
+Variable: ECE111_Lecture_(S9_L1,S10_L1)  ->  Sections: {S10_L1, S9_L1}
+Variable: ECE214_Lab_S1_AID_L4  ->  Sections: {S1_AID_L4}
+Variable: ECE214_Lab_S2_AID_L4  ->  Sections: {S2_AID_L4}
+Variable: ECE214_Lab_S3_AID_L4  ->  Sections: {S3_AID_L4}
+Variable: ECE214_Lab_S4_AID_L4  ->  Sections: {S4_AID_L4}
+Variable: ECE214_Lecture_(S1_AID_L4,S2_AID_L4)  ->  Sections: {S1_AID_L4, S2_AID_L4}
+Variable: ECE214_Lecture_(S3_AID_L4,S4_AID_L4)  ->  Sections: {S3_AID_L4, S4_AID_L4}
+Variable: ECE223_Lab_S1_CSC_L4  ->  Sections: {S1_CSC_L4}
+Variable: ECE223_Lecture_(S1_CSC_L4)  ->  Sections: {S1_CSC_L4}
+Variable: LRA101_Lecture_(S11_L1,S12_L1)  ->  Sections: {S11_L1, S12_L1}
+Variable: LRA101_Lecture_(S1_L1,S2_L1)  ->  Sections: {S1_L1, S2_L1}
+Variable: LRA101_Lecture_(S3_L1,S4_L1)  ->  Sections: {S3_L1, S4_L1}
+Variable: LRA101_Lecture_(S5_L1,S6_L1)  ->  Sections: {S5_L1, S6_L1}
+Variable: LRA101_Lecture_(S7_L1,S8_L1)  ->  Sections: {S7_L1, S8_L1}
+Variable: LRA101_Lecture_(S9_L1,S10_L1)  ->  Sections: {S10_L1, S9_L1}
+Variable: LRA103_Lecture_(S11_L1,S12_L1)  ->  Sections: {S11_L1, S12_L1}
+Variable: LRA103_Lecture_(S1_L1,S2_L1)  ->  Sections: {S1_L1, S2_L1}
+Variable: LRA103_Lecture_(S3_L1,S4_L1)  ->  Sections: {S3_L1, S4_L1}
+Variable: LRA103_Lecture_(S5_L1,S6_L1)  ->  Sections: {S5_L1, S6_L1}
+Variable: LRA103_Lecture_(S7_L1,S8_L1)  ->  Sections: {S7_L1, S8_L1}
+Variable: LRA103_Lecture_(S9_L1,S10_L1)  ->  Sections: {S10_L1, S9_L1}
+Variable: LRA106_Lecture_(S1_CNC_L4,S2_CNC_L4)  ->  Sections: {S1_CNC_L4, S2_CNC_L4}
+Variable: LRA106_Lecture_(S3_CNC_L4,S4_CNC_L4)  ->  Sections: {S3_CNC_L4, S4_CNC_L4}
+Variable: LRA401_Lecture_(S11_L1,S12_L1)  ->  Sections: {S11_L1, S12_L1}
+Variable: LRA401_Lecture_(S1_L1,S2_L1)  ->  Sections: {S1_L1, S2_L1}
+Variable: LRA401_Lecture_(S3_L1,S4_L1)  ->  Sections: {S3_L1, S4_L1}
+Variable: LRA401_Lecture_(S5_L1,S6_L1)  ->  Sections: {S5_L1, S6_L1}
+Variable: LRA401_Lecture_(S7_L1,S8_L1)  ->  Sections: {S7_L1, S8_L1}
+Variable: LRA401_Lecture_(S9_L1,S10_L1)  ->  Sections: {S10_L1, S9_L1}
+Variable: LRA403_Lecture_(S1_L2,S2_L2)  ->  Sections: {S1_L2, S2_L2}
+Variable: LRA403_Lecture_(S3_L2,S4_L2)  ->  Sections: {S3_L2, S4_L2}
+Variable: LRA403_Lecture_(S5_L2,S6_L2)  ->  Sections: {S5_L2, S6_L2}
+Variable: LRA403_Lecture_(S7_L2,S8_L2)  ->  Sections: {S7_L2, S8_L2}
+Variable: LRA403_Lecture_(S9_L2)  ->  Sections: {S9_L2}
+Variable: MTH121_Lab_S1_CNC_L4  ->  Sections: {S1_CNC_L4}
+Variable: MTH121_Lab_S2_CNC_L4  ->  Sections: {S2_CNC_L4}
+Variable: MTH121_Lab_S3_CNC_L4  ->  Sections: {S3_CNC_L4}
+Variable: MTH121_Lab_S4_CNC_L4  ->  Sections: {S4_CNC_L4}
+Variable: MTH121_Lecture_(S1_CNC_L4,S2_CNC_L4)  ->  Sections: {S1_CNC_L4, S2_CNC_L4}
+Variable: MTH121_Lecture_(S3_CNC_L4,S4_CNC_L4)  ->  Sections: {S3_CNC_L4, S4_CNC_L4}
+Variable: MTH212_Lab_S1_L2  ->  Sections: {S1_L2}
+Variable: MTH212_Lab_S2_L2  ->  Sections: {S2_L2}
+Variable: MTH212_Lab_S3_L2  ->  Sections: {S3_L2}
+Variable: MTH212_Lab_S4_L2  ->  Sections: {S4_L2}
+Variable: MTH212_Lab_S5_L2  ->  Sections: {S5_L2}
+Variable: MTH212_Lab_S6_L2  ->  Sections: {S6_L2}
+Variable: MTH212_Lab_S7_L2  ->  Sections: {S7_L2}
+Variable: MTH212_Lab_S8_L2  ->  Sections: {S8_L2}
+Variable: MTH212_Lab_S9_L2  ->  Sections: {S9_L2}
+Variable: MTH212_Lecture_(S1_L2,S2_L2)  ->  Sections: {S1_L2, S2_L2}
+Variable: MTH212_Lecture_(S3_L2,S4_L2)  ->  Sections: {S3_L2, S4_L2}
+Variable: MTH212_Lecture_(S5_L2,S6_L2)  ->  Sections: {S5_L2, S6_L2}
+Variable: MTH212_Lecture_(S7_L2,S8_L2)  ->  Sections: {S7_L2, S8_L2}
+Variable: MTH212_Lecture_(S9_L2)  ->  Sections: {S9_L2}
+Variable: PHY113_Lab_S10_L1  ->  Sections: {S10_L1}
+Variable: PHY113_Lab_S11_L1  ->  Sections: {S11_L1}
+Variable: PHY113_Lab_S12_L1  ->  Sections: {S12_L1}
+Variable: PHY113_Lab_S1_L1  ->  Sections: {S1_L1}
+Variable: PHY113_Lab_S2_L1  ->  Sections: {S2_L1}
+Variable: PHY113_Lab_S3_L1  ->  Sections: {S3_L1}
+Variable: PHY113_Lab_S4_L1  ->  Sections: {S4_L1}
+Variable: PHY113_Lab_S5_L1  ->  Sections: {S5_L1}
+Variable: PHY113_Lab_S6_L1  ->  Sections: {S6_L1}
+Variable: PHY113_Lab_S7_L1  ->  Sections: {S7_L1}
+Variable: PHY113_Lab_S8_L1  ->  Sections: {S8_L1}
+Variable: PHY113_Lab_S9_L1  ->  Sections: {S9_L1}
+Variable: PHY113_Lecture_(S11_L1,S12_L1)  ->  Sections: {S11_L1, S12_L1}
+Variable: PHY113_Lecture_(S1_L1,S2_L1)  ->  Sections: {S1_L1, S2_L1}
+Variable: PHY113_Lecture_(S3_L1,S4_L1)  ->  Sections: {S3_L1, S4_L1}
+Variable: PHY113_Lecture_(S5_L1,S6_L1)  ->  Sections: {S5_L1, S6_L1}
+Variable: PHY113_Lecture_(S7_L1,S8_L1)  ->  Sections: {S7_L1, S8_L1}
+Variable: PHY113_Lecture_(S9_L1,S10_L1)  ->  Sections: {S10_L1, S9_L1}
+Variable: PHY123_Lab_S1_CNC_L4  ->  Sections: {S1_CNC_L4}
+Variable: PHY123_Lab_S2_CNC_L4  ->  Sections: {S2_CNC_L4}
+Variable: PHY123_Lab_S3_CNC_L4  ->  Sections: {S3_CNC_L4}
+Variable: PHY123_Lab_S4_CNC_L4  ->  Sections: {S4_CNC_L4}
+Variable: PHY123_Lecture_(S1_CNC_L4,S2_CNC_L4)  ->  Sections: {S1_CNC_L4, S2_CNC_L4}
+Variable: PHY123_Lecture_(S3_CNC_L4,S4_CNC_L4)  ->  Sections: {S3_CNC_L4, S4_CNC_L4}
