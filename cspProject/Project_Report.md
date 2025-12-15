@@ -18,7 +18,7 @@
 
 This project presents an intelligent timetabling system that automatically generates feasible course schedules for educational institutions using Constraint Satisfaction Problem (CSP) techniques. The system addresses the complex challenge of scheduling multiple courses, sections, instructors, and rooms while satisfying various constraints such as instructor availability, room capacity, time slot conflicts, and section overlaps.
 
-The system is designed to handle real-world academic scheduling scenarios, including courses with both lecture and lab components, multiple sections per course, instructor preferences, and room type requirements. By leveraging CSP algorithms and optimization techniques, the system efficiently generates conflict-free timetables that respect all specified constraints.
+The system is designed to handle real-world academic scheduling scenarios, including courses with both lecture and lab components, multiple sections per course, instructor preferences, and room type requirements. By leveraging CSP algorithms and optimization techniques, the system efficiently generates conflict-free timetables that respect all specified constraints. Additionally, a newly implemented **Web Interface** provides broader accessibility, allowing users to interact with the system, generate timetables, and visualize results through a modern web browser.
 
 ---
 
@@ -135,6 +135,13 @@ The grouping is implemented by:
 3. Creating a single variable per group with combined student count
 4. Maintaining individual lab variables for each section
 
+### 2.5 Web Interface Architecture
+
+The system extends its core consistency by offering a modern web-based user interface, built on a client-server architecture:
+
+- **Frontend (Client)**: Developed using **React.js** (via Vite), this layer provides an interactive dashboard for users. It handles state management, user inputs (filters), and renders the generated timetable in an intuitive grid layout.
+- **Backend (Server)**: Built with **Flask**, this layer acts as the bridge between the Core CSP Logic and the Frontend. It exposes API endpoints (e.g., `/api/solve`) to trigger the solving process and return results in JSON format.
+
 ---
 
 ## Implementation & Technical Quality
@@ -225,6 +232,22 @@ The system includes validation checks:
 - AC-3 consistency checking
 - Solution verification (all constraints satisfied)
 - Output data integrity checks
+
+### 3.5 Web Application Implementation
+
+The Web Interface is a key addition to the system's technical implementation:
+
+#### 3.5.1 Frontend (React + Vite)
+- **Component-Based Architecture**: The UI is built using reusable components (e.g., for filter controls and timetable cards).
+- **State Management**: React Hooks (`useState`, `useEffect`) manage the application state, including loading statuses, error handling, and schedule data.
+- **Dynamic CSS**: Styles are implemented for responsiveness and a modern "Dark Mode" aesthetic.
+
+#### 3.5.2 Backend (Flask API)
+- **API Endpoints**:
+  - `GET /api/solve`: Triggers the CSP solver (running `ac3` and `solve_backtracking`), formats the output, and returns it as a JSON payload.
+  - `GET /health`: A simple health check endpoint.
+- **Data Flow Integration**: The backend seamlessly imports the core `cspGrouping` module to reuse the existing logic, ensuring consistency between the CLI/GUI and Web results.
+- **CORS Support**: Cross-Origin Resource Sharing is enabled to allow the React frontend to communicate with the Flask server during development.
 
 ---
 
@@ -424,7 +447,6 @@ Potential improvements for future versions:
 - **Multi-objective Optimization**: Optimize for room utilization, instructor preferences, etc.
 - **Parallel Processing**: Utilize multi-threading for large-scale problems
 - **Machine Learning**: Learn from historical schedules to improve future solutions
-- **Web Interface**: Deploy as a web application for broader accessibility
 
 ---
 
@@ -458,9 +480,17 @@ Potential improvements for future versions:
 cspProject/
 ├── cspGrouping.py          # Main CSP solver implementation
 ├── timetable_output.csv    # Generated timetable output
-├── buildings_rooms.json     # Extracted building/room data (JSON)
-├── buildings_rooms.csv      # Extracted building/room data (CSV)
-└── Halls Timetable Fall 2025 (1).xlsx  # Input Excel file
+├── buildings_rooms.json    # Extracted building/room data (JSON)
+├── buildings_rooms.csv     # Extracted building/room data (CSV)
+├── Halls Timetable Fall 2025 (1).xlsx  # Input Excel file
+└── web_interface/          # Web Application Source
+    ├── backend/
+    │   └── app.py          # Flask API Server
+    └── frontend/
+        ├── package.json
+        ├── vite.config.js
+        └── src/
+            └── App.jsx     # Main React Component
 ```
 
 ---
